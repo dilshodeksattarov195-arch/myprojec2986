@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfonnect",
+        "uuid": 24541934,
+        "checksum": "f760tt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
